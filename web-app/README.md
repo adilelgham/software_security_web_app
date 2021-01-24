@@ -5,18 +5,22 @@ Hosted versie
 HTTPS <br>
     Cloudflar
 
-<h3> Registratie & Aanmelden </h3>
-    Laravel Jetstream
+<h3> Registratie & Aanmelden: </h3>
+De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. 6) De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. <br>
+
+De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van de emailadres. Na het aanmelden wordt de user ontvangen in een dashboard, zodat het duidelijk is dat hij ingelogd is. Na het aanmelden kan hij al zijn gegevens opvragen, wijzigen,zijn account verwijderen en ook downloaden in een csv file.
 
 <h3>Maatregelen tegen de courante aanvallen</h3>
     Laravel framework <br>
-    -> De webtoepassing is beveiligd tegen de gevraagde courante aanvallen. Vervolgens worden de geheimen beveiligd. Ten slotte worden er maatregelen getroffen tegen typische web vulnerabilities. <br>
+    -> Laravel is beveiligd tegen de gevraagde courante aanvallen. Vervolgens worden de geheimen beveiligd. Ten slotte worden er maatregelen getroffen tegen typische web vulnerabilities. <br>
 <h3>Uitoefenen van rechten</h3>
     - inzage,
     - rectificatie,
     - wissen van account,
     - gegevensoverdraagbaarheid in een csv file downloaden,
     <br>
+ <h3> Bescherming persoonlijke gegevens: </h3>
+ <p>Laravel is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. 3) De webtoepassing maakt enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
 <h1>Verwerkingsregister: </h1>
 <h3>1) Contactgegegevens </h3>
 -bedrijfsnaam: Adil El Ghamarti <br>
