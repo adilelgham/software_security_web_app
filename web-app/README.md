@@ -3,10 +3,9 @@ Hosted versie
 
 <p><b>Done:</b> <br> 
 HTTPS <br>
-    Cloudflar
 
 <h3> Registratie & Aanmelden: </h3>
-De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. 6) De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. <br>
+De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. <br>
 
 De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van de emailadres. Na het aanmelden wordt de user ontvangen in een dashboard, zodat het duidelijk is dat hij ingelogd is. Na het aanmelden kan hij al zijn gegevens opvragen, wijzigen,zijn account verwijderen en ook downloaden in een csv file.
 
