@@ -14,13 +14,13 @@ De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van
     Laravel framework <br>
     -> Laravel is beveiligd tegen de gevraagde courante aanvallen. Vervolgens worden de geheimen beveiligd. Ten slotte worden er maatregelen getroffen tegen typische web vulnerabilities. <br>
 <h3>Uitoefenen van rechten</h3>
-    - inzage,
-    - rectificatie,
-    - wissen van account,
+    - inzage, <br>
+    - rectificatie, <br>
+    - wissen van account, <br>
     - gegevensoverdraagbaarheid in een csv file downloaden,
     <br>
  <h3> Bescherming persoonlijke gegevens: </h3>
- <p>Laravel is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. 3) De webtoepassing maakt enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
+ <p>Deze website is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. Ook maakt deze website enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
 <h1>Verwerkingsregister: </h1>
 <h3>1) Contactgegegevens </h3>
 -bedrijfsnaam: Adil El Ghamarti <br>
