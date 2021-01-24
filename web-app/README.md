@@ -1,6 +1,43 @@
 Hosted versie
 <a href="http://adilelghamarti.be/"> https://adilelghamarti.be</a>
 
+<p><b>Done:</b> <br> 
+HTTPS <br>
+
+    Cloudflar
+
+Registratie & Aanmelden
+
+    Laravel Jetstream
+
+Maatregelen tegen courante aanvallen
+
+    Laravel framework
+
+Maatregelen tegen typische web vulnerabilities
+
+    Laravel framework
+<h1>Verwerkingsregister: </h1>
+<h3>1) Contactgegegevens </h3>
+-bedrijfsnaam: Adil El Ghamarti <br>
+-adress: Nijverheidskaai 170, 1070 Anderlecht <br>
+-email: adil.el.ghamarti@student.ehb.be <br>
+<br>
+
+<h3>2) Categorie persoonsgegevens: </h3>
+   <p> naam, email en passwoord <p>
+
+<h3>3) Categorie betrokkennen:</h3> gebruikers <br>
+<h3> 4) Grondslag voor verwerking: </h3> uitvoering overeenkomst <br>
+<h3> 5) Doel verwerking:</h3> boekhouding <br>
+<h3> 6) jurische basis:</h3> wettelijke verplichting <br>
+<h3> 7) Locatie verwerker: </h3> in de EU grenzen <br>
+<h3> 8) Bewaartermijn: </h3> tot de gebruiker het account wenst te verwijderen <br>
+<h3> 9) Veiligheidsmaatregelen: <h3> Voorafgaande autorisatie en het encrypteren van data <br>
+<h3> 10) Verwerkingsactiviteiten van bijzondere persoonsgegevens: </h3> <br>
+<h3> 11) Datum aanmaken register: </h3> 02 januari 2021 <br>
+<h3>12) De partijen worden met niemand gedeeld </h3> <br>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
