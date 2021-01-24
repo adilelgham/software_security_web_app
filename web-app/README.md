@@ -23,7 +23,8 @@ De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van
     - inzage, <br>
     - rectificatie, <br>
     - wissen van account, <br>
-    - gegevensoverdraagbaarheid in een csv file downloaden,
+    - gegevensoverdraagbaarheid in een csv file downloaden, <br>
+    - bezwaar -> in de privacyverklaring 
     <br>
  <h3> Bescherming persoonlijke gegevens: </h3>
  <p>Deze website is conform met de privacy wetgeving. De gebruiker kan de Privacyverklaring ten alle tijden raadplegen onderaan de website op elke pagina. Ook maakt deze website enkel gebruik van noodzakelijke cookies waar hij van op de hoogte wordt gesteld bij het aanmelden. Indien de gebruiker bezwaar heeft kan hij contact opzoeken zoals vermeld in de privacy verklaring.</p> <br>
