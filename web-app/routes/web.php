@@ -23,9 +23,6 @@ Route::get('/privacy', function () {
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::get('/privacy', function () {
-    return view('privacyDeclaration');
-})->name('privacy');
 
 Route::get('/profile', [
     'uses' => 'App\Http\Controllers\ProfielController@index',

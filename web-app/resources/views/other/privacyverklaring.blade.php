@@ -12,7 +12,7 @@
     
 <h1>Privacybeleid</h1>
 
-<p><strong>deze site</strong> draagt zorg voor je privacy en handelt hierbij steeds in overeenstemming met de bepalingen van de 
+<p>Wij dragen zorg voor je privacy en handelt hierbij steeds in overeenstemming met de bepalingen van de 
 toepasselijke Belgische en Europese privacywetgeving, waaronder ondermeer de Wet van 30 juli 2018 betreffende de bescherming 
 van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens, de Algemene Verordering Gegevensbescherming. </p>
 
@@ -22,7 +22,7 @@ websites en gebruikers van onze mobiele applicaties. Het is mogelijk dat er voor
 voorwaarden van toepassing zijn.</p>
 
 <p>Door onze website en onze mobiele applicaties te gebruiken of door gebruik te maken van de producten en diensten je aangeboden 
-door <strong>deze site</strong> of door deel te nemen aan onze acties, ga je uitdrukkelijk akkoord met de wijze waarop Carrefour Belgium 
+door ons of door deel te nemen aan onze acties, ga je uitdrukkelijk akkoord met de wijze waarop wij 
 persoonsgegevens verzamelt en verwerkt.</p>
 
 <h1>1. De verwerking van de persoonsgegevens</h1>
@@ -54,14 +54,16 @@ computer, fire walls, toegangscontroles en logs</p>
 
 
 <h1>4. Verwerking van Gegevens</h1>
-<p> <strong>Deze site</strong>verwerkt je Gegevens voor welbepaalde en uitdrukkelijk omschreven doeleinden en zal je Gegevens niet 
+<p> Wij verwerken je Gegevens voor welbepaalde en uitdrukkelijk omschreven doeleinden en zal je Gegevens niet 
 verwerken op een met die doeleinden onverenigbare wijze. Carrefour Belgium kan je Gegevens voor volgende doeleinden verwerken: <br>
 
 De wettelijke grondslagen op basis waarvan wij over kunnen gaan tot het verwerken van je Gegevens betreffen:
 
 <h1>5. Jouw rechten</h1>
-
-
+<p> Indien je bezwaar hebt met iets kunt u altijd contact opzoeken bij de persoonlijke gegevens hieronder vermeld: <br>
+- adil.el.ghamarti@student.ehb.be <br>
+- Nijverheidskaai 170, 1070 Anderlecht 
+</p>
 <h1>6. Cookies en andere technologiën</h1>
 
 <p>Cookies zijn tekstbestandjes die op je computer worden geplaatst wanneer je een website bezoekt. Ze slaan je voorkeuren en 
