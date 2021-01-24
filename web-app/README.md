@@ -4,6 +4,11 @@ Hosted versie
 <h1>Done:</h1> 
     <br> 
 <h3>HTTPS </h3> <br>
+Bij een HTTP request naar het domein van je landing page van je toepassing wordt een 301 response (Moved Permanently) teruggestuurd met een redirect naar een equivalente HTTPS URL. geen mixed content.
+Het domein krijgt minstens een A score bij de SSL Labs server test.
+     De website gebruikt DNS CAA met behulp van letsencrypt.org 
+    Iedere respons bevat een Strict-Transport-Security header;
+    Het gebruikte domein staat in de HSTS preload list of wacht op toevoeging.
 
 <h3> Registratie & Aanmelden: </h3>
 De gebruiker kan een gebruikersnaam (of email) en wachtwoord ingeven. alle 'printable' ASCII karakters worden aanvaard in het wachtwoord. Het wachtwoord moet uit minstens 7 karakters bestaan. De webtoepassing maakt gebruik van de HIBP api die wachtwoorden dat meer dan 300 keer als has been pwned markeert weigert. De user moet bij registratie een emailadres opgeven en deze moet bevestigt worden door de user vooraleer deze toegang krijgt tot de webtoepassing. Ten slotte maakt Laravel gebruik van Bcrypt met een salt om het wachtwoord op te slaan. <br>
