@@ -3,20 +3,17 @@ Hosted versie
 
 <p><b>Done:</b> <br> 
 HTTPS <br>
-
-    Cloudflar
+Cloudflar
 
 Registratie & Aanmelden
-
     Laravel Jetstream
 
-Maatregelen tegen courante aanvallen
-
+Maatregelen tegen de courante aanvallen
     Laravel framework
 
 Maatregelen tegen typische web vulnerabilities
-
     Laravel framework
+    <br>
 <h1>Verwerkingsregister: </h1>
 <h3>1) Contactgegegevens </h3>
 -bedrijfsnaam: Adil El Ghamarti <br>
