@@ -1,7 +1,8 @@
 Hosted versie
 <a href="http://adilelghamarti.be/"> https://adilelghamarti.be</a>
 
-<p><b>Done:</b> <br> 
+<p><b>Done:</b> 
+    <br> 
 HTTPS <br>
 
 <h3> Registratie & Aanmelden: </h3>
