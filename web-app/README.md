@@ -33,7 +33,7 @@ Maatregelen tegen typische web vulnerabilities
 <h3> 6) jurische basis:</h3> wettelijke verplichting <br>
 <h3> 7) Locatie verwerker: </h3> in de EU grenzen <br>
 <h3> 8) Bewaartermijn: </h3> tot de gebruiker het account wenst te verwijderen <br>
-<h3> 9) Veiligheidsmaatregelen: <h3> Voorafgaande autorisatie en het encrypteren van data <br>
+<h3> 9) Veiligheidsmaatregelen: </h3> Voorafgaande autorisatie en het encrypteren van data <br>
 <h3> 10) Verwerkingsactiviteiten van bijzondere persoonsgegevens: </h3> <br>
 <h3> 11) Datum aanmaken register: </h3> 02 januari 2021 <br>
 <h3>12) De partijen worden met niemand gedeeld </h3> <br>
