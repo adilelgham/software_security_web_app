@@ -3,16 +3,19 @@ Hosted versie
 
 <p><b>Done:</b> <br> 
 HTTPS <br>
-Cloudflar
+    Cloudflar
 
-Registratie & Aanmelden
+<h3> Registratie & Aanmelden </h3>
     Laravel Jetstream
 
-Maatregelen tegen de courante aanvallen
-    Laravel framework
-
-Maatregelen tegen typische web vulnerabilities
-    Laravel framework
+<h3>Maatregelen tegen de courante aanvallen</h3>
+    Laravel framework <br>
+    -> De webtoepassing is beveiligd tegen de gevraagde courante aanvallen. Vervolgens worden de geheimen beveiligd. Ten slotte worden er maatregelen getroffen tegen typische web vulnerabilities. <br>
+<h3>Uitoefenen van rechten</h3>
+    - inzage,
+    - rectificatie,
+    - wissen van account,
+    - gegevensoverdraagbaarheid in een csv file downloaden,
     <br>
 <h1>Verwerkingsregister: </h1>
 <h3>1) Contactgegegevens </h3>
