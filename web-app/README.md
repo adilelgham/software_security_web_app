@@ -41,7 +41,7 @@ De gebruiker kan pas inloggen nadat hij bewezen heeft dat hij de eigenaar is van
 <br>
 
 <h3>2) Categorie persoonsgegevens: </h3>
-   <p> naam, email en passwoord <p>
+   <p> naam, email en wachtwoord <p>
 
 <h3>3) Categorie betrokkennen:</h3> gebruikers <br>
 <h3> 4) Grondslag voor verwerking: </h3> uitvoering overeenkomst <br>
